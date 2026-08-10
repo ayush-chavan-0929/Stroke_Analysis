@@ -53,8 +53,6 @@ Stroke-Data-Analysis/
 ├── stroke-analysis.ipynb
 ├── health.csv
 ├── README.md
-└── screenshots/
-    └── visualizations/
 ```
 
 ### File Description

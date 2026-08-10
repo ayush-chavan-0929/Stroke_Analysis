@@ -534,15 +534,7 @@ Make sure `health.csv` is present in the same folder as the notebook.
 
 ### Project Type
 
-**College Mini Project / Data Analytics Project**
-
-### Domain
-
-**Healthcare Data Analysis**
-
-### Programming Language
-
-**Python**
+**College Mini Project**
 
 ### Tools
 
@@ -551,10 +543,6 @@ Make sure `health.csv` is present in the same folder as the notebook.
 ### Libraries
 
 **Pandas, NumPy, Matplotlib**
-
-### Project Level
-
-**Beginner to Intermediate**
 
 ### Main Concepts
 
@@ -586,35 +574,6 @@ Through this project, the following skills are developed:
 * Interpreting analytical results
 * Documenting a data-analysis project
 * Managing a project using GitHub
-
----
-
-# 🚧 Limitations
-
-The project has some limitations:
-
-* The analysis is based on the available dataset only.
-* The project focuses mainly on exploratory data analysis and visualization.
-* No machine-learning prediction model is implemented in the provided notebook.
-* The results represent patterns in the dataset and cannot be used as a medical diagnosis.
-* Some dataset categories contain `Unknown` values.
-* BMI originally contains missing values, which are handled using median imputation.
-
----
-
-# 🔮 Future Scope
-
-The project can be extended in the future by:
-
-* Adding more advanced visualizations.
-* Performing correlation analysis.
-* Creating an interactive dashboard.
-* Applying machine-learning classification algorithms.
-* Comparing multiple machine-learning models.
-* Performing feature engineering.
-* Evaluating models using accuracy, precision, recall, F1-score, and ROC-AUC.
-* Creating a web application for educational demonstration.
-* Adding additional healthcare datasets for comparison.
 
 ---
 

@@ -66,9 +66,6 @@ Contains the healthcare dataset used for the analysis.
 **`README.md`**
 Provides project documentation, objectives, methodology, results, and instructions.
 
-**`screenshots/`**
-Optional folder for storing screenshots of important graphs and analysis results.
-
 ---
 
 # 📊 Dataset Description
